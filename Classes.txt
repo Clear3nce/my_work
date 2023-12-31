@@ -1,0 +1,16 @@
+Classes notes
+
+They uses Class key word.
+Classes uses extends key word to handle inheritance.
+A constructor is a special method used to create Objects. It gets called when when you create an inheritance.
+In Classes it is the method for initializing the object s property.
+
+Methids are defined inside the class and outside the constructor because of organisation and readability, to keep the class defination clean and organised.
+Prototype inheritance.
+is it possible to define the methods inside the class constructor?
+
+Superclass or supertype:
+in function constructors we use prototypal inheritance to establish a relationship between a supertype and a child.
+in classes we use the key word extends for inheritance.
+
+so the key difference between the two is the syntax , 'super' keyword super() is used inside the subclass constructor to call the superclass constructor.
