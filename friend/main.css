@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Courier New", Courier, monospace;
+}
+.logo {
+  width: 100px;
+  min-height: 100px;
+  /* padding-left: 2%; */
+  cursor: pointer;
+}
+li,
+a {
+  font-weight: 15px;
+  text-decoration: none;
+}
+.nav-links li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.header-main {
+  height: 140px;
+  background-color: lightgray;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 10%;
+}
+.socials img {
+  border-radius: 10px;
+  cursor: pointer;
+  width: 80px;
+  min-height: 80px;
+}
