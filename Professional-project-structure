@@ -1,0 +1,20 @@
+taskmanager/
+│
+├── backend/
+│   ├── config/
+│   │   ├── settings.py
+│   │   ├── urls.py
+│   │   └── celery.py
+│   │
+│   ├── users/
+│   ├── tasks/
+│   │
+│   ├── manage.py
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components
+│   │   ├── pages
+│   │   ├── api
+│   │
+├── docker-compose.yml
