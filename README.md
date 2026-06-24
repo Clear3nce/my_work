@@ -1,1 +1,1 @@
-study notes on js
+- agiles roles websites ->  https://itrexgroup.com/blog/software-development-team-structure/
